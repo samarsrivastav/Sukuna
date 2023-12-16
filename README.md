@@ -2,7 +2,7 @@
 
 ### - I'm 20 years old Fullstack Web Developer from India.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img hight="200" width="250" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
@@ -15,27 +15,20 @@
 
 </br>
 </br>
-</br>
-
-
-
 # Languages & Tools 👨‍💻 🛠:
-</br>
 
-<p align="center">
+
+<p >
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.png" alt="cpp" width="50" hight="50"> &nbsp;
 <img src="https://i.imgur.com/zINUxVf.png" alt="c" width="50" hight="50">&nbsp;
 <img src="https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png" alt="AI" width="50" hight="50">&nbsp;
-
 <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_flask.png?raw=true" alt="bash" width="50" hight="50">&nbsp;
 <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-128.png" alt="firebase" width="50" hight="50">&nbsp;
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">&nbsp;
-
 <img src="https://skills.thijs.gg/icons?i=js,html,css" alt="pc" width="100" hight="50">&nbsp;&nbsp;
 </p>
-</br>
 </br>
 </br>
 
