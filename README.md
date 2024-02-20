@@ -6,7 +6,7 @@
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
-- ✨ Php , Flask , Firebase , Mysql
+- ✨ Php , Flask , GO , Firebase , Mysql
 - ✨ Html , Css , js, React.js , Bootstrap
 
 ### - Hobbies : 
