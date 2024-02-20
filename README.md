@@ -7,7 +7,7 @@
 ### - Learning :
 - ✨ Data Structures & Algorithms
 - ✨ Php , Flask , GO , Firebase , Mysql
-- ✨ Html , Css , js, React.js , Bootstrap
+- ✨ Html , Css , js, React.js , Bootstrap ,Tailwind Css
 
 ### - Hobbies : 
 - ✨ Gym Addict
@@ -29,6 +29,11 @@
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" height="50">&nbsp;&nbsp;
 <img src="https://skills.thijs.gg/icons?i=js,html,css" alt="pc" width="150" height="50">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" alt="pc" width="50" height="50">&nbsp;&nbsp;&nbsp;
+</br>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="pc" width="50" height="50">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="pc" width="50" height="50">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="pc" width="50" height="50">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="pc" width="50" height="50">&nbsp;&nbsp;&nbsp;
 </p>
 </br>
 </br>
