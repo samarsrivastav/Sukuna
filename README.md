@@ -21,14 +21,14 @@
 <p >
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/isocpp/logos/blob/master/cpp_logo.png" alt="cpp" width="50" hight="50"> &nbsp;&nbsp;
-<img src="https://i.imgur.com/zINUxVf.png" alt="c" width="50" hight="50">&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png" alt="AI" width="50" hight="50">&nbsp;&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="bash" width="50" hight="50">&nbsp;&nbsp;
-<img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-128.png" alt="firebase" width="50" hight="50">&nbsp;&nbsp;
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">&nbsp;&nbsp;
-<img src="https://skills.thijs.gg/icons?i=js,html,css" alt="pc" width="100" hight="50">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" alt="pc" width="100" hight="50">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/isocpp/logos/blob/master/cpp_logo.png" alt="cpp" width="50" height="50"> &nbsp;&nbsp;
+<img src="https://i.imgur.com/zINUxVf.png" alt="c" width="50" height="50">&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png" alt="AI" width="50" height="50">&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="bash" width="50" height="50">&nbsp;&nbsp;
+<img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-128.png" alt="firebase" width="50" height="50">&nbsp;&nbsp;
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" height="50">&nbsp;&nbsp;
+<img src="https://skills.thijs.gg/icons?i=js,html,css" alt="pc" width="150" height="50">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" alt="pc" width="50" height="50">&nbsp;&nbsp;&nbsp;
 </p>
 </br>
 </br>
