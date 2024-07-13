@@ -29,7 +29,7 @@
 <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-128.png" alt="firebase" width="50" height="50">&nbsp;&nbsp;
 </br>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="visualstudio_code" width="50" height="50">&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=aws" alt="pc" width="240" height="50">&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=aws" alt="pc" width="50" height="50">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" alt="pc" width="50" height="50">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="pc" width="50" height="50">&nbsp;&nbsp;&nbsp;
 </br>
