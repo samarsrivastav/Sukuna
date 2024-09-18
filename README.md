@@ -7,7 +7,7 @@
 ### - Learning :
 - ✨ Data Structures & Algorithms
 - ✨ Php , Flask , GO , Firebase , Mysql
-- ✨ Html , Css , js, React.js , Bootstrap ,Tailwind Css
+- ✨ Html , Css , js, React.js , Node.js, Express.js Bootstrap ,Tailwind Css
 
 ### - Hobbies : 
 - ✨ Gym Addict
