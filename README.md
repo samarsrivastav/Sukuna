@@ -56,8 +56,7 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" style="background: white;">
-    <img src="[![image](https://github.com/user-attachments/assets/f9275f76-28ae-4129-8905-38acc84bfdba)](https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg)" alt="flask" width="40" height="40"/>
-    <img src="" alt="flask" width="40" height="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="flask" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="background: white;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -67,9 +66,6 @@
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="background: white;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="background: white;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://jestjs.io" target="_blank" rel="noreferrer" style="background: white;">
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
